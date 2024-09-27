@@ -9,8 +9,8 @@ for i in range(4):
         soma_aprovados = soma_aprovados + nota
 
 if (qt_aprovados == 0):
-    print('Ninguém passou
-
-print(f'{qt_aprovados} pessoas estão aprovadas.')
-media_aprovados = soma_aprovados / qt_aprovados
-print(media_aprovados)
+    print('Ninguém passou')
+else:
+    print(f'{qt_aprovados} pessoas estão aprovadas.')
+    media_aprovados = soma_aprovados / qt_aprovados
+    print(media_aprovados)
