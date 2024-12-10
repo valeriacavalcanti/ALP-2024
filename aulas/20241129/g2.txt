@@ -1,0 +1,29 @@
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Posição: 8
+Prêmio: 2 pontos!
+0 1 2 3 4 5 6 7 9 10 11 12 13 14 Posição: 12
+Prêmio: 8 pontos!
+0 1 2 3 4 5 6 7 9 10 11 13 14 Posição: 9
+Prêmio: 1 pontos!
+0 1 2 3 4 5 6 7 10 11 13 14 Posição: 5
+Prêmio: 8 pontos!
+0 1 2 3 4 6 7 10 11 13 14 Posição: 2
+Prêmio: 6 pontos!
+0 1 3 4 6 7 10 11 13 14 Posição: 0
+Prêmio: 9 pontos!
+1 3 4 6 7 10 11 13 14 Posição: 7
+Prêmio: 7 pontos!
+1 3 4 6 10 11 13 14 Posição: 6
+Prêmio: 3 pontos!
+1 3 4 10 11 13 14 Posição: 14
+Prêmio: 6 pontos!
+1 3 4 10 11 13 Posição: 11
+Prêmio: 4 pontos!
+1 3 4 10 13 Posição: 4 
+Prêmio: 8 pontos!
+1 3 10 13 Posição: 1
+3 10 13 Posição: 13
+Prêmio: 8 pontos!
+3 10 Posição: 10
+Prêmio: 6 pontos!
+3 Posição: 3
+Prêmio: 1 pontos!

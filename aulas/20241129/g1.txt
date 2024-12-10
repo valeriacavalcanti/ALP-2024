@@ -1,0 +1,37 @@
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 - Escolha seu prêmio: 2
+Premio: 8 pontos.
+0 1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 - Escolha seu prêmio: 8
+Premio: 5 pontos.
+0 1 3 4 5 6 7 9 10 11 12 13 14 15 16 - Escolha seu prêmio: 16
+Premio: 5 pontos.
+0 1 3 4 5 6 7 9 10 11 12 13 14 15 - Escolha seu prêmio: 13
+Premio: 7 pontos.
+0 1 3 4 5 6 7 9 10 11 12 14 15 - Escolha seu prêmio: 7
+Premio: 7 pontos.
+0 1 3 4 5 6 9 10 11 12 14 15 - Escolha seu prêmio: 14
+Premio: 8 pontos.
+0 1 3 4 5 6 9 10 11 12 15 - Escolha seu prêmio: 0
+Premio: 5 pontos.
+1 3 4 5 6 9 10 11 12 15 - Escolha seu prêmio: 6
+Premio: 5 pontos.
+1 3 4 5 9 10 11 12 15 - Escolha seu prêmio: 9
+1 3 4 5 10 11 12 15 - Escolha seu prêmio: 12
+Premio: 6 pontos.
+1 3 4 5 10 11 15 - Escolha seu prêmio: 11
+Premio: 4 pontos.
+1 3 4 5 10 15 - Escolha seu prêmio: 10
+Premio: 7 pontos.
+1 3 4 5 15 - Escolha seu prêmio: 15
+Premio: 9 pontos.
+1 3 4 5 - Escolha seu prêmio: 1
+Premio: 2 pontos.
+3 4 5 - Escolha seu prêmio: 3
+Premio: 3 pontos.
+4 5 - Escolha seu prêmio: 5
+Premio: 5 pontos.
+4 - Escolha seu prêmio: 4
+Premio: 4 pontos.
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 - Escolha seu prêmio: 15
+Premio: 2 pontos.
+
